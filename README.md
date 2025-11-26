@@ -16,4 +16,12 @@ I'm a big fan of **open-source** and spend a lot of time in the terminal with my
 - Building my own **moped shop** (because I really love “Töffli”)
 - Organizing a **moped event** for next spring
 
+
+### 📫 Stay in Contact
+
+You can stay in contact with me on **LinkedIn**:  
+➡️ [linkedin.com/in/your-profil](https://www.linkedin.com/in/janis-gerber-406045399/)
+
+
 ---
+
