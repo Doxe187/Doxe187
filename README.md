@@ -12,9 +12,10 @@ I'm a big fan of **open-source** and spend a lot of time in the terminal with my
 - Terminal-driven development with **Neovim**
 - Always experimenting with new tools and frameworks
 
-### 🛵 Current Projects
+### Current Projects
 - Building my own **moped shop** (because I really love “Töffli”)
 - Organizing a **moped event** for next spring
+- Building my own Omarchy Cyberpunk theme
 
 
 ### 📫 Stay in Contact
